@@ -1,0 +1,18 @@
+h1, a {
+    font-family: 'Tahoma', sans-serif;
+}
+h1 {
+    color: rgb(0, 0, 90);
+    text-align: center;
+    font-size: 70px;
+}
+
+a {
+    color: hsl(133, 30%, 62%);
+    background-color: hsl(40, 55%, 96%);
+}
+
+.photos {
+    height: 300px;
+    width: auto;
+}
