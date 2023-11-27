@@ -7,6 +7,13 @@ h1 {
     font-size: 70px;
 }
 
+ul {
+    padding-top: 60px;
+    padding-bottom: -200px;
+    padding-left: 150px;
+    margin: auto;
+}
+
 a {
     color: hsl(133, 30%, 62%);
     background-color: hsl(40, 55%, 96%);
@@ -15,4 +22,6 @@ a {
 .photos {
     height: 300px;
     width: auto;
+    margin-left: 700px;
+    margin-top: -100px;
 }
